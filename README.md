@@ -33,7 +33,7 @@
 	test one or many Class :   
 	gradlew test --tests full_package_and_ClassName
 	gradlew build test --tests *ClassName --> to test one or some classes  
-	Browse APIs via swagger: http://localhost:8080/swagger-ui.html#
+	Import GraphQL.postman_collection.json file to Postman to test as client
 
 ### Reference Docs
     https://github.com/graphql-java-kickstart/graphql-spring-boot/blob/master/README.md
