@@ -61,7 +61,7 @@ test {
 
 task fatJar(type: Jar) {
     manifest {
-        def manifest = attributes 'Implementation-Title': 'SmartOSC Fintech P2P-Lending | LMS Backend | Customer Management Services',
+        def manifest = attributes 'Implementation-Title': 'Customer Management Services',
                 'Implementation-Version': project.version,
                 'Main-Class': 'om.rvbb.b2b.backend.customer'
         manifest
